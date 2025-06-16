@@ -1,2 +1,3 @@
-# NyxM-nd
-Website Ai by kenzz offc
+# NyxM¡nd AI
+
+Deployable full-stack AI interface.
